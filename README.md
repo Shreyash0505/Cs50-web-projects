@@ -11,14 +11,14 @@ Not only it looks like google but it also works like google although it uses the
 
 # Navigate directly
 <p>
-  <a href="#google-text-search-page"> Google Text Search page  </a>   <br />
-  <a href="#google-image-search-page"> Google Image Search page  </a>   <br />
+  <a href="#google-text-search-page"> Google Text Search page </a><br/>
+  <a href="#google-image-search-page"> Google Image Search page </a> <br/>
   <a href="#google-advance-search-page"> Google Advance Search page </a>   
 </p>
 
 # Google text search page
 <p align="center">
-  <img src=">
+  <img src="">
 </p>
 <h2>Interface </h2>
 <ol>
@@ -37,7 +37,7 @@ result for the query, bypassing the normal results page.
 
 # Google image search page
 <p align="center">
-  <img src=">
+  <img src="">
 </p>
 <h2>Interface </h2>
 <ol>
@@ -57,7 +57,7 @@ the <ins> Search icon </ins> just at the right corner of your query field to fin
 
 # Google advance search page
 <p align="center">
-  <img src=">
+  <img src="">
 </p>
 <h2>Interface </h2>
 <ol>
