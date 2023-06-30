@@ -18,7 +18,7 @@ Not only it looks like google but it also works like google although it uses the
 
 # Google text search page
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aashishpanthi/google-clone/master/images/index.png" width="800" alt="google search page"/>
+  <img src=">
 </p>
 <h2>Interface </h2>
 <ol>
@@ -37,7 +37,7 @@ result for the query, bypassing the normal results page.
 
 # Google image search page
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aashishpanthi/google-clone/master/images/image.png" width="800" alt="google image search page"/>
+  <img src=">
 </p>
 <h2>Interface </h2>
 <ol>
@@ -57,7 +57,7 @@ the <ins> Search icon </ins> just at the right corner of your query field to fin
 
 # Google advance search page
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/aashishpanthi/google-clone/master/images/advance.png" width="800" alt="google advance search page"](https://github.com/Shreyash0505/Cs50web-p0-google_clone/blob/main/download.png)/>
+  <img src=">
 </p>
 <h2>Interface </h2>
 <ol>
